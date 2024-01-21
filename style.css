@@ -2,4 +2,8 @@ header{
   display:flex;
   margin-top: 20px;
 }
+body{
+  color:white;
+  font:sans-serif;
+}
   
